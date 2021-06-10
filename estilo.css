@@ -1,0 +1,164 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-size: 1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #928a8a;
+}
+
+
+header{
+    background-color: #191958;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo , #menu {
+    padding: 10px;
+}
+
+h1{
+color: #f50000e1;
+font-size: 2.5em;
+}
+
+.blog{
+    color: white;
+}
+
+ a{
+    text-decoration: none;
+ }
+
+ a:link, a:visited {
+    color: #191958;
+
+ }
+
+ a:hover {
+    text-decoration: underline;
+ }
+
+ #cabecalho a:link, a:link, a:visited {
+ color: #fff;
+ padding: 8px 12px;
+ }
+
+ #cabecalho a:hover {
+ color: #191958;
+ background: #fff;
+ text-decoration: none;
+ }
+
+ #a-principal{
+    margin: 15px auto;
+    background: white;
+    width: 1020px;
+    padding: 15px;
+    
+    
+ }
+
+ section{
+     padding: 20px;
+     margin-bottom: 20px;
+     background: white;
+ }
+
+ #a-postagem{
+    float: left;
+    width: 660px;
+    background: rgb(255, 255, 255);
+    margin-bottom: 15px;
+   
+    
+ }
+
+ aside{
+    float: right;
+    width: 240px;
+    background:rgb(126, 123, 123);
+  
+   
+ }
+ footer{
+    background: #ccc;
+    clear: both;
+    text-align: center;
+    padding: 10px;
+
+    
+ }
+
+ .postagem{
+    width: 610px;
+ }
+ h2{
+     color: #191958;
+ }
+
+.postagem{
+    font-size: 0.9em;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+aside{
+    display: inline;
+    
+
+}
+h3{
+    
+    display: inline;
+    
+    
+}
+#menu0{
+    float: right;
+    width: 240px;
+    background:rgb(0, 255, 115);
+}
+aside{
+    background: rgb(241, 199, 9);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+   .container{
+   font-family: Arial, Helvetica, sans-serif;
+   max-width: 300px ;
+   margin: auto;
+   background-color: #928a8a;
+   padding: 20px;
+   border-radius: 10px;
+  
+}
+
+imput{
+  width: 100%;
+  display: block;
+  padding: 5px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+
+}
+
+#titulo-organiver{
+  color: #000000e1;
+font-size: 2em;
+margin-bottom: 20px;
+  
+}
+
+
+
+
+
+
+
